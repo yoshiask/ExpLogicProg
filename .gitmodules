@@ -1,0 +1,3 @@
+[submodule "libs/Guan"]
+	path = libs/Guan
+	url = https://github.com/microsoft/Guan/
